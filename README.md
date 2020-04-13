@@ -1,4 +1,4 @@
-# wakushoppu
+# kouveepetshop
 
 ## Project setup
 ```
